@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sc2BFLyodK4agWh0bV95ICm7rSSiPQc1xBmdlXYXk6Zt1WGcUoS1IGVdMMn+5hqeHgmZb7P57nrNN3iclI8alQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Projects\\SEWERAGEBILLCALCULATOR\\SEWERAGEBILLCALCULATOR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
